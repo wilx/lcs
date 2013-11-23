@@ -77,13 +77,6 @@ public:
       return IndexProxy (p.idx_policy.minus_left (p.index (), u), 
 			 p.idx_policy);
     }
-
-    /*template <typename U>
-      friend inline IndexProxy 
-      operator - (U const & u, IndexProxy const & p)
-      {
-      return IndexProxy (p.idx_policy.minus_right (u, p.index ()), p.idx_policy);
-      }*/
   };
 
   typedef IndexProxy index_proxy_type;
