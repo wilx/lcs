@@ -34,7 +34,7 @@ public:
   protected:
     index_type const idx;
     index_policy_type const idx_policy;
-
+    
   public:
     IndexProxy (index_type const & i, index_policy_type const & pol)
       : idx (i), idx_policy (pol)
