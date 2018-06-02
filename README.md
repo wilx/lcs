@@ -1,1 +1,1 @@
-This is attempt at implementation of Hirschberg's longest common subsequence algorithm described in: HIRSCHBERG, Daniel S. Algorithms for the longest common subsequence problem. *Journal of the ACM (JACM)*, 1977, 24.4: 664-675.
+This is attempt at implementation of Hirschberg's longest common subsequence algorithm described in: HIRSCHBERG, Daniel S. Algorithms for the longest common subsequence problem. *Journal of the ACM (JACM)*, 1977, 24.4: 664-675, DOI:[10.1145/322033.322044](https://doi.org/10.1145/322033.322044).
